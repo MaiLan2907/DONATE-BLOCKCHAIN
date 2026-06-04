@@ -325,6 +325,6 @@ REACT_APP_NETWORK_NAME=Sepolia
 - Get leaderboard: 0 ETH (read-only)
 
 ## Poster
-![Poster dự án](poster.pdf)
+![Poster dự án](Poster.pdf)
 
 
