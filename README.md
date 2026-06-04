@@ -1,5 +1,5 @@
-<h1 align="center">DONATE BLOCKCHAIN 🎁
-ỨNG DỤNG QUYÊN GÓP TRONG SUỐT TRÊN ETHEREUM</h1>
+<h1 align="center">DONATE BLOCKCHAIN
+</h1>
 
 <div align="center">
 <p align="center">
