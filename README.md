@@ -1,11 +1,12 @@
 <h1 align="center">DONATE BLOCKCHAIN
-</h1>
+ HỆ THỐNG QUYÊN GÓP MINH BẠCH</h1>
 
 <div align="center">
 <p align="center">
   <img src="logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
   <img src="LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
 </p>
+  
 [![React](https://img.shields.io/badge/React-blue?style=for-the-badge)](https://react.dev/)
 [![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge)](https://docs.soliditylang.org/)
 [![Hardhat](https://img.shields.io/badge/Hardhat-purple?style=for-the-badge)](https://hardhat.org/)
