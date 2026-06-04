@@ -324,44 +324,6 @@ REACT_APP_NETWORK_NAME=Sepolia
 - Donate: ~0.05 ETH + gas
 - Get leaderboard: 0 ETH (read-only)
 
-## Future Enhancements
 
-- [ ] Multi-token support (USDT, USDC, etc.)
-- [ ] DAO governance
-- [ ] Time-locked donations
-- [ ] NFT receipts for donors
-- [ ] Email notifications
-- [ ] Mainnet deployment
-- [ ] Withdrawal management
 
-## Contributing
 
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-MIT License - see LICENSE file for details
-
-## Support
-
-- 📧 Email: support@donateblockchain.com
-- 💬 Discord: [Join our Discord]
-- 🐦 Twitter: [@DonateBlockchain]
-- 📖 Docs: [Full Documentation]
-
-## Acknowledgments
-
-- Built with [Hardhat](https://hardhat.org)
-- Frontend with [React](https://react.dev)
-- Web3 integration via [ethers.js](https://docs.ethers.org)
-- Tested with [Chai](https://www.chaijs.com)
-
----
-
-**Made with ❤️ for transparent charity**
