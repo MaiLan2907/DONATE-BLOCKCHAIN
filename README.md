@@ -324,6 +324,7 @@ REACT_APP_NETWORK_NAME=Sepolia
 - Donate: ~0.05 ETH + gas
 - Get leaderboard: 0 ETH (read-only)
 
-
+## Poster / trình chiếu
+[Tải poster (PPTX)](poster.pptx)
 
 
